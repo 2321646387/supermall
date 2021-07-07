@@ -63,5 +63,10 @@ export default {
 };
 </script>
 
-<style scoped lang="scss">
+<style scoped lang="less">
+// .container {
+//   position: fixed;
+//   bottom: 0;
+//   overflow: hidden;
+// }
 </style>
